@@ -19,7 +19,6 @@
         app:layout_constraintLeft_toLeftOf="parent"/>
 
     <EditText
-        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
         android:inputType="textNoSuggestions"
         android:id="@+id/nameEdit"
         android:layout_width="0dp"
